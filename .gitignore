@@ -72,5 +72,10 @@ finalproject/FProject/Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 finalproject/FProject/DerivedDataCache/*
+
+
+# Added via Github Desktop
 /Intermediate
 /Saved
+finalproject/Binaries
+/Binaries
